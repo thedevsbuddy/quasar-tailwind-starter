@@ -1,7 +1,7 @@
 {
   "name": "quasar-tailwind-starter",
   "version": "0.0.1",
-  "description": "A Quasar Framework app",
+  "description": "A quasar framework app starter kit with tailwindcss styles and much more.",
   "productName": "Quasar App",
   "author": "DevsBuddy <devsbuddy404@gmail.com>",
   "private": true,
